@@ -96,8 +96,8 @@ main {
 }
 
 .banner-text h1 {
-  font-size: 70px;
-  line-height: 1.2em;
+  font-size: 60px;
+  line-height: 1em;
   color: #000;
 }
 
@@ -107,9 +107,9 @@ main {
   color: #fff;
   background-color: #EB0926;
   border-style: none;
-  border-radius: 20px;
+  border-radius: 12px;
   opacity: 80%;
-  font-size: 20px;
+  font-size: 16px;
   padding: 10px 30px;
   transition: all 0.5s ease;
 }
