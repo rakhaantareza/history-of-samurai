@@ -103,7 +103,7 @@ main {
   margin-bottom: 50px;
 }
 
-.banner-btn {
+.banner-text .banner-btn {
   text-decoration: none;
   color: #fff;
   background-color: #EB0926;
@@ -113,7 +113,7 @@ main {
   padding: 10px 30px;
 }
 
-.banner-btn:hover {
+.banner-text .banner-btn:hover {
   opacity: 100%;
 }
 
